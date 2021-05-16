@@ -1,1 +1,1 @@
-# invictus-assignment
+this is an Reactjs front end application which accepts a number input N with a Submit button  & on entering a value and pressing submit it fetch the contents of https://raw.githubusercontent.com/invictustech/test/main/README.md  & we need to find the top N most frequently occurring words in this file. It display the top N words and their frequency of occurrence  in a tabular format.
